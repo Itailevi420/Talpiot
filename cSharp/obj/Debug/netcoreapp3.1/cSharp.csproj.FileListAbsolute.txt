@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/cSharp/bin/Debug/netcoreapp3.1/cSharp
+/home/itai/Code/Talpiot/cSharp/bin/Debug/netcoreapp3.1/cSharp.deps.json
+/home/itai/Code/Talpiot/cSharp/bin/Debug/netcoreapp3.1/cSharp.runtimeconfig.json
+/home/itai/Code/Talpiot/cSharp/bin/Debug/netcoreapp3.1/cSharp.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/cSharp/bin/Debug/netcoreapp3.1/cSharp.dll
+/home/itai/Code/Talpiot/cSharp/bin/Debug/netcoreapp3.1/cSharp.pdb
+/home/itai/Code/Talpiot/cSharp/obj/Debug/netcoreapp3.1/cSharp.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/cSharp/obj/Debug/netcoreapp3.1/cSharp.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/cSharp/obj/Debug/netcoreapp3.1/cSharp.AssemblyInfo.cs
+/home/itai/Code/Talpiot/cSharp/obj/Debug/netcoreapp3.1/cSharp.dll
+/home/itai/Code/Talpiot/cSharp/obj/Debug/netcoreapp3.1/cSharp.pdb

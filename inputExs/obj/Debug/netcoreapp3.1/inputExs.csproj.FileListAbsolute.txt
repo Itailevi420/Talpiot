@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/inputExs/bin/Debug/netcoreapp3.1/inputExs
+/home/itai/Code/Talpiot/inputExs/bin/Debug/netcoreapp3.1/inputExs.deps.json
+/home/itai/Code/Talpiot/inputExs/bin/Debug/netcoreapp3.1/inputExs.runtimeconfig.json
+/home/itai/Code/Talpiot/inputExs/bin/Debug/netcoreapp3.1/inputExs.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/inputExs/bin/Debug/netcoreapp3.1/inputExs.dll
+/home/itai/Code/Talpiot/inputExs/bin/Debug/netcoreapp3.1/inputExs.pdb
+/home/itai/Code/Talpiot/inputExs/obj/Debug/netcoreapp3.1/inputExs.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/inputExs/obj/Debug/netcoreapp3.1/inputExs.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/inputExs/obj/Debug/netcoreapp3.1/inputExs.AssemblyInfo.cs
+/home/itai/Code/Talpiot/inputExs/obj/Debug/netcoreapp3.1/inputExs.dll
+/home/itai/Code/Talpiot/inputExs/obj/Debug/netcoreapp3.1/inputExs.pdb

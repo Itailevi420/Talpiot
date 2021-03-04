@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/loopsEx/bin/Debug/netcoreapp3.1/loopsEx
+/home/itai/Code/Talpiot/loopsEx/bin/Debug/netcoreapp3.1/loopsEx.deps.json
+/home/itai/Code/Talpiot/loopsEx/bin/Debug/netcoreapp3.1/loopsEx.runtimeconfig.json
+/home/itai/Code/Talpiot/loopsEx/bin/Debug/netcoreapp3.1/loopsEx.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/loopsEx/bin/Debug/netcoreapp3.1/loopsEx.dll
+/home/itai/Code/Talpiot/loopsEx/bin/Debug/netcoreapp3.1/loopsEx.pdb
+/home/itai/Code/Talpiot/loopsEx/obj/Debug/netcoreapp3.1/loopsEx.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/loopsEx/obj/Debug/netcoreapp3.1/loopsEx.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/loopsEx/obj/Debug/netcoreapp3.1/loopsEx.AssemblyInfo.cs
+/home/itai/Code/Talpiot/loopsEx/obj/Debug/netcoreapp3.1/loopsEx.dll
+/home/itai/Code/Talpiot/loopsEx/obj/Debug/netcoreapp3.1/loopsEx.pdb

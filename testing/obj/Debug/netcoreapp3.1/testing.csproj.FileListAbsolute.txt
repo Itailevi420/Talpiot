@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/testing/bin/Debug/netcoreapp3.1/testing
+/home/itai/Code/Talpiot/testing/bin/Debug/netcoreapp3.1/testing.deps.json
+/home/itai/Code/Talpiot/testing/bin/Debug/netcoreapp3.1/testing.runtimeconfig.json
+/home/itai/Code/Talpiot/testing/bin/Debug/netcoreapp3.1/testing.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/testing/bin/Debug/netcoreapp3.1/testing.dll
+/home/itai/Code/Talpiot/testing/bin/Debug/netcoreapp3.1/testing.pdb
+/home/itai/Code/Talpiot/testing/obj/Debug/netcoreapp3.1/testing.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/testing/obj/Debug/netcoreapp3.1/testing.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/testing/obj/Debug/netcoreapp3.1/testing.AssemblyInfo.cs
+/home/itai/Code/Talpiot/testing/obj/Debug/netcoreapp3.1/testing.dll
+/home/itai/Code/Talpiot/testing/obj/Debug/netcoreapp3.1/testing.pdb

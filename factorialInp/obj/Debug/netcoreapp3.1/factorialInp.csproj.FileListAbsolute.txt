@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/factorialInp/bin/Debug/netcoreapp3.1/factorialInp
+/home/itai/Code/Talpiot/factorialInp/bin/Debug/netcoreapp3.1/factorialInp.deps.json
+/home/itai/Code/Talpiot/factorialInp/bin/Debug/netcoreapp3.1/factorialInp.runtimeconfig.json
+/home/itai/Code/Talpiot/factorialInp/bin/Debug/netcoreapp3.1/factorialInp.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/factorialInp/bin/Debug/netcoreapp3.1/factorialInp.dll
+/home/itai/Code/Talpiot/factorialInp/bin/Debug/netcoreapp3.1/factorialInp.pdb
+/home/itai/Code/Talpiot/factorialInp/obj/Debug/netcoreapp3.1/factorialInp.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/factorialInp/obj/Debug/netcoreapp3.1/factorialInp.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/factorialInp/obj/Debug/netcoreapp3.1/factorialInp.AssemblyInfo.cs
+/home/itai/Code/Talpiot/factorialInp/obj/Debug/netcoreapp3.1/factorialInp.dll
+/home/itai/Code/Talpiot/factorialInp/obj/Debug/netcoreapp3.1/factorialInp.pdb

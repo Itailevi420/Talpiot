@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/ternaryExs/bin/Debug/netcoreapp3.1/ternaryExs
+/home/itai/Code/Talpiot/ternaryExs/bin/Debug/netcoreapp3.1/ternaryExs.deps.json
+/home/itai/Code/Talpiot/ternaryExs/bin/Debug/netcoreapp3.1/ternaryExs.runtimeconfig.json
+/home/itai/Code/Talpiot/ternaryExs/bin/Debug/netcoreapp3.1/ternaryExs.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/ternaryExs/bin/Debug/netcoreapp3.1/ternaryExs.dll
+/home/itai/Code/Talpiot/ternaryExs/bin/Debug/netcoreapp3.1/ternaryExs.pdb
+/home/itai/Code/Talpiot/ternaryExs/obj/Debug/netcoreapp3.1/ternaryExs.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/ternaryExs/obj/Debug/netcoreapp3.1/ternaryExs.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/ternaryExs/obj/Debug/netcoreapp3.1/ternaryExs.AssemblyInfo.cs
+/home/itai/Code/Talpiot/ternaryExs/obj/Debug/netcoreapp3.1/ternaryExs.dll
+/home/itai/Code/Talpiot/ternaryExs/obj/Debug/netcoreapp3.1/ternaryExs.pdb

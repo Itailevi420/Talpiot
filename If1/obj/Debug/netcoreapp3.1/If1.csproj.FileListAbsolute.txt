@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/If1/bin/Debug/netcoreapp3.1/If1
+/home/itai/Code/Talpiot/If1/bin/Debug/netcoreapp3.1/If1.deps.json
+/home/itai/Code/Talpiot/If1/bin/Debug/netcoreapp3.1/If1.runtimeconfig.json
+/home/itai/Code/Talpiot/If1/bin/Debug/netcoreapp3.1/If1.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/If1/bin/Debug/netcoreapp3.1/If1.dll
+/home/itai/Code/Talpiot/If1/bin/Debug/netcoreapp3.1/If1.pdb
+/home/itai/Code/Talpiot/If1/obj/Debug/netcoreapp3.1/If1.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/If1/obj/Debug/netcoreapp3.1/If1.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/If1/obj/Debug/netcoreapp3.1/If1.AssemblyInfo.cs
+/home/itai/Code/Talpiot/If1/obj/Debug/netcoreapp3.1/If1.dll
+/home/itai/Code/Talpiot/If1/obj/Debug/netcoreapp3.1/If1.pdb

@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/twoThreeBoom/bin/Debug/netcoreapp3.1/twoThreeBoom
+/home/itai/Code/Talpiot/twoThreeBoom/bin/Debug/netcoreapp3.1/twoThreeBoom.deps.json
+/home/itai/Code/Talpiot/twoThreeBoom/bin/Debug/netcoreapp3.1/twoThreeBoom.runtimeconfig.json
+/home/itai/Code/Talpiot/twoThreeBoom/bin/Debug/netcoreapp3.1/twoThreeBoom.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/twoThreeBoom/bin/Debug/netcoreapp3.1/twoThreeBoom.dll
+/home/itai/Code/Talpiot/twoThreeBoom/bin/Debug/netcoreapp3.1/twoThreeBoom.pdb
+/home/itai/Code/Talpiot/twoThreeBoom/obj/Debug/netcoreapp3.1/twoThreeBoom.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/twoThreeBoom/obj/Debug/netcoreapp3.1/twoThreeBoom.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/twoThreeBoom/obj/Debug/netcoreapp3.1/twoThreeBoom.AssemblyInfo.cs
+/home/itai/Code/Talpiot/twoThreeBoom/obj/Debug/netcoreapp3.1/twoThreeBoom.dll
+/home/itai/Code/Talpiot/twoThreeBoom/obj/Debug/netcoreapp3.1/twoThreeBoom.pdb
