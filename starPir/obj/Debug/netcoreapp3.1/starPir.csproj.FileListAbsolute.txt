@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/starPir/bin/Debug/netcoreapp3.1/starPir
+/home/itai/Code/Talpiot/starPir/bin/Debug/netcoreapp3.1/starPir.deps.json
+/home/itai/Code/Talpiot/starPir/bin/Debug/netcoreapp3.1/starPir.runtimeconfig.json
+/home/itai/Code/Talpiot/starPir/bin/Debug/netcoreapp3.1/starPir.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/starPir/bin/Debug/netcoreapp3.1/starPir.dll
+/home/itai/Code/Talpiot/starPir/bin/Debug/netcoreapp3.1/starPir.pdb
+/home/itai/Code/Talpiot/starPir/obj/Debug/netcoreapp3.1/starPir.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/starPir/obj/Debug/netcoreapp3.1/starPir.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/starPir/obj/Debug/netcoreapp3.1/starPir.AssemblyInfo.cs
+/home/itai/Code/Talpiot/starPir/obj/Debug/netcoreapp3.1/starPir.dll
+/home/itai/Code/Talpiot/starPir/obj/Debug/netcoreapp3.1/starPir.pdb
