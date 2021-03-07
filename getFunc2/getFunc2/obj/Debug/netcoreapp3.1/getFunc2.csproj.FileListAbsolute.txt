@@ -1,0 +1,11 @@
+/home/itai/Code/Talpiot/getFunc2/getFunc2/bin/Debug/netcoreapp3.1/getFunc2
+/home/itai/Code/Talpiot/getFunc2/getFunc2/bin/Debug/netcoreapp3.1/getFunc2.deps.json
+/home/itai/Code/Talpiot/getFunc2/getFunc2/bin/Debug/netcoreapp3.1/getFunc2.runtimeconfig.json
+/home/itai/Code/Talpiot/getFunc2/getFunc2/bin/Debug/netcoreapp3.1/getFunc2.runtimeconfig.dev.json
+/home/itai/Code/Talpiot/getFunc2/getFunc2/bin/Debug/netcoreapp3.1/getFunc2.dll
+/home/itai/Code/Talpiot/getFunc2/getFunc2/bin/Debug/netcoreapp3.1/getFunc2.pdb
+/home/itai/Code/Talpiot/getFunc2/getFunc2/obj/Debug/netcoreapp3.1/getFunc2.csprojAssemblyReference.cache
+/home/itai/Code/Talpiot/getFunc2/getFunc2/obj/Debug/netcoreapp3.1/getFunc2.AssemblyInfoInputs.cache
+/home/itai/Code/Talpiot/getFunc2/getFunc2/obj/Debug/netcoreapp3.1/getFunc2.AssemblyInfo.cs
+/home/itai/Code/Talpiot/getFunc2/getFunc2/obj/Debug/netcoreapp3.1/getFunc2.dll
+/home/itai/Code/Talpiot/getFunc2/getFunc2/obj/Debug/netcoreapp3.1/getFunc2.pdb
