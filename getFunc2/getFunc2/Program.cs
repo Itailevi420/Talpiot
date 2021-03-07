@@ -99,7 +99,7 @@ namespace getFunc2
                 i = i + 1;
             }
             i = 0;
-            Console.WriteLine("resultMulti: " + resultMulti);
+            // Console.WriteLine("resultMulti: " + resultMulti);
             while (i < input.Length)
             {
                 if (input[i] == '+' || input[i] == '-')
@@ -144,7 +144,7 @@ namespace getFunc2
 
                 i = i + 1;
             }
-            Console.WriteLine("sum: " + sum);
+            // Console.WriteLine("sum: " + sum);
             Console.WriteLine(sum + resultMulti);
         }
     }
