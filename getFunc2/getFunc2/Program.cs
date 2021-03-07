@@ -135,6 +135,18 @@ namespace getFunc2
                     }
 
                     i = regP;
+                    while (i < input.Length)
+                    {
+                        if (i < input.Length - 1)
+                        {
+
+                            if (i + 1 == input.Length - 1)
+                            {
+                                plusChar = plusChar + input[i + 1];
+                            }
+                        }
+                        i = i + 1;
+                    }
                     if (plusChar != "")
                     {
                         intPlusChar = double.Parse(plusChar);
