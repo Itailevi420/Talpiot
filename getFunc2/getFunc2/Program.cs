@@ -42,9 +42,16 @@ namespace getFunc2
                         i = i + 1;
                     }
                     i = multiP;
-                    while (i >= 0)
+                    while (i > 0)
                     {
-                        if (!(input[i - 1] == '-' || input[i - 1] == '+' || input[i - 1] == '*' || input[i - 1] == '/' || input[i - 1] == '%'))
+
+                        if (resultMulti != 0)
+                        {
+
+                            leftFromMulti = "" + resultMulti;
+                            resultMulti = 0;
+                        }
+                        else if (!(input[i - 1] == '-' || input[i - 1] == '+' || input[i - 1] == '*' || input[i - 1] == '/' || input[i - 1] == '%'))
                         {
                             leftFromMulti = input[i - 1] + leftFromMulti;
 
@@ -54,6 +61,7 @@ namespace getFunc2
                             symbLeftFromMulti = input[i - 1];
                             i = -1;
                         }
+
                         i = i - 1;
                     }
                     i = multiP;
