@@ -45,13 +45,7 @@ namespace getFunc2
                     while (i > 0)
                     {
 
-                        if (resultMulti != 0)
-                        {
-
-                            leftFromMulti = "" + resultMulti;
-                            resultMulti = 0;
-                        }
-                        else if (!(input[i - 1] == '-' || input[i - 1] == '+' || input[i - 1] == '*' || input[i - 1] == '/' || input[i - 1] == '%'))
+                        if (!(input[i - 1] == '-' || input[i - 1] == '+' || input[i - 1] == '*' || input[i - 1] == '/' || input[i - 1] == '%'))
                         {
                             leftFromMulti = input[i - 1] + leftFromMulti;
 
@@ -108,64 +102,8 @@ namespace getFunc2
             }
             i = 0;
             // Console.WriteLine("resultMulti: " + resultMulti);
-            while (i < input.Length)
-            {
-                if (input[i] == '+' || input[i] == '-')
-                {
-                    regP = i;
-                    regPP = i;
-                    while (i > 0)
-                    {
-                        if (input[i - 1] == '*' || input[i - 1] == '/' || input[i - 1] == '%')
-                        {
-                            plusChar = "";
-                            i = 0;
-                        }
-                        else if (!(input[i - 1] == '-' || input[i - 1] == '+'))
-                        {
-                            plusChar = input[regPP - 1] + plusChar;
-                            regPP = regPP - 1;
-                        }
-                        else if (input[i - 1] == '-' || input[i - 1] == '+')
-                        {
-                            symbReg = input[i - 1];
-                            i = 0;
-                        }
-                        i = i - 1;
-                    }
-
-                    i = regP;
-                    while (i < input.Length)
-                    {
-                        if (i < input.Length - 1)
-                        {
-
-                            if (i + 1 == input.Length - 1)
-                            {
-                                plusChar = plusChar + input[i + 1];
-                            }
-                        }
-                        i = i + 1;
-                    }
-                    if (plusChar != "")
-                    {
-                        intPlusChar = double.Parse(plusChar);
-                        plusChar = "";
-                        if (symbReg == '-')
-                        {
-                            sum = sum - intPlusChar;
-                        }
-                        else
-                        {
-                            sum = sum + intPlusChar;
-                        }
-                    }
-                }
-
-                i = i + 1;
-            }
             // Console.WriteLine("sum: " + sum);
-            Console.WriteLine(sum + resultMulti);
+            Console.WriteLine(resultMulti);
         }
     }
 }
